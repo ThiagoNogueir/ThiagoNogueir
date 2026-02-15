@@ -46,10 +46,6 @@ Full Stack Developer specializing in **Finance** and **ERP systems**, with exper
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoNogueir&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoNogueir&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ThiagoNogueir&color=58a6ff&style=flat&label=Profile+Views)
 
 </div>
